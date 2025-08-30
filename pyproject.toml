@@ -1,7 +1,7 @@
 [project]
 name = "kaggle-playground-s3-ep1"
 version = "0.1.0"
-description = "Add your description here"
+description = "Kaggle playground series season 3 episode 1"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
